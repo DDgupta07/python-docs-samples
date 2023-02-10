@@ -28,7 +28,7 @@ def hello():
     a = 4
     b = 5
     c = a+b
-    return c
+    return "c"
 
 
 if __name__ == '__main__':
